@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.master{
+    width: 800px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+#heading{
+    margin-bottom: 25px;
+}
+#paragraph{
+    font-size: x-large;
+    margin-bottom: 25px;
+}
+.pictures{
+    /*width: 430px; */
+    display: inline-block;
+    border: 2px solid red;
+    padding-left: 10px;
+}
+#first, #second, #third, #fourth{
+    width: 370px;
+    background-color: wheat;
+    border: 2px solid yellow;
+    margin: 5px;
+}
